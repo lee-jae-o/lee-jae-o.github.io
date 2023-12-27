@@ -107,7 +107,7 @@ author:
   name             : "이재오"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
-  location         : 대한민국국
+  location         : 대한민국
   email            :
   links:
     - label: "Email"
